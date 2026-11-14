@@ -6,7 +6,7 @@ I built it to practice the work of an M&A finance team: keeping confidential dea
 
 **Interactive dashboard:** [Tableau Public link — add after publishing]
 
-![Weekly report](weekly report.png)
+![Weekly report](weekly_report.png)
 
 ---
 
