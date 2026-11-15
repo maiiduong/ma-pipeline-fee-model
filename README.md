@@ -3,8 +3,7 @@
 An Excel model that tracks live M&A deals, estimates advisory fees, compares an advisor's projected fee revenue against a quarterly budget, and produces a one-page weekly report. It is updated every week from public sources.
 
 I built it to practice the work of an M&A finance team: keeping confidential deal data clean, reviewing the pipeline and fee outlook every week, and reporting the results clearly to bankers and leadership.
-
-**Interactive dashboard:** [https://public.tableau.com:9443/views/MAPipelineAdvisoryFeeDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+**Interactive dashboard:** [https://public.tableau.com/app/profile/melanie.duong/viz/MAPipelineAdvisoryFeeDashboard/Dashboard]
 
 ![Weekly report](weekly_report.png)
 
